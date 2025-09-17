@@ -15,9 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am have used:
+I have used:
 - Java
 - Python
 - C
 - C++
 - RStudio
+- SQL
+- Microsoft Office
